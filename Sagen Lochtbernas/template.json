@@ -1,0 +1,38 @@
+{
+  "Actor": {
+    "types": ["character", "npc"],
+    "templates": {
+      "base": {
+        "attributes": {
+          "körper": {
+            "stärke": 0,
+            "ausdauer": 0,
+            "agilität": 0
+          },
+          "geist": {
+            "intellekt": 0,
+            "seele": 0,
+            "weisheit": 0
+          },
+          "sozial": {
+            "charisma": 0,
+            "wissen": 0,
+            "handwerk": 0
+          },
+          "bewegung": 5,
+          "alter": 20,
+          "erfahrung": 0
+        }
+      }
+    }
+  },
+  "Item": {
+    "types": ["weapon", "armor", "skill"],
+    "templates": {
+      "base": {
+        "description": "",
+        "value": 0
+      }
+    }
+  }
+}
