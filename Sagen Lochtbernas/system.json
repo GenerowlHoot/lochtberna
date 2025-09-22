@@ -41,6 +41,7 @@
   "url": "https://github.com/deinrepo",
   "license": "MIT",
   "readme": "README.md",
-  "manifest": "https://raw.githubusercontent.com/deinrepo/main-hex-system/main/system.json",
+  "manifest": "https://github.com/GenerowlHoot/lochtberna/blob/main/Sagen%20Lochtbernas/system.json",
   "download": "https://github.com/deinrepo/main-hex-system/archive/refs/heads/main.zip"
 }
+
