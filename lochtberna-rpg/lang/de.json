@@ -1,0 +1,7 @@
+{
+  "ACTOR.TypeCharacter": "Charakter",
+  "ITEM.TypeWeapon": "Waffe",
+  "ITEM.TypeTalent": "Talent",
+  "ITEM.TypeZauber": "Zauber",
+  "ITEM.TypeFähigkeit": "Fähigkeit"
+}

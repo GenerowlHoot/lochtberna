@@ -1,0 +1,21 @@
+{
+  "name": "lochtberna-rpg",
+  "title": "Sagen Lochtbernas",
+  "description": "Ein Rollenspielsystem mit hexagonaler Bewegung und W100-Mechanik.",
+  "version": "1.0.0",
+  "author": "User & ChatGPT",
+  "esmodules": ["module/main.js"],
+  "styles": ["styles/style.css"],
+  "languages": [
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ],
+  "packs": [],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
+}

@@ -1,0 +1,15 @@
+<h2>Zauber</h2>
+<p>Liste deiner erlernten Zauber (zunächst leer).</p>
+<ul>
+  {{#each system.zauber}}
+    <li>{{this.name}} (Stufe: {{this.stufe}})</li>
+  {{/each}}
+</ul>
+
+<h2>Fähigkeiten</h2>
+<p>Liste deiner besonderen Fähigkeiten (zunächst leer).</p>
+<ul>
+  {{#each system.fähigkeiten}}
+    <li>{{this.name}}: {{this.beschreibung}}</li>
+  {{/each}}
+</ul>

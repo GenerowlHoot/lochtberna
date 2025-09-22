@@ -1,0 +1,15 @@
+.lochtberna-rpg.sheet input, .lochtberna-rpg.sheet textarea {
+  width: 95%;
+  margin-bottom: 5px;
+}
+
+.lochtberna-rpg.sheet h2 {
+  margin-top: 10px;
+  border-bottom: 1px solid #666;
+}
+
+.lochtberna-rpg.sheet {
+  font-family: serif;
+  background: #f5f0e6;
+  padding: 10px;
+}
