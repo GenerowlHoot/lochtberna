@@ -7,20 +7,10 @@
   "esmodules": ["module/main.js"],
   "styles": ["styles/style.css"],
   "languages": [
-    {
-      "lang": "de",
-      "name": "Deutsch",
-      "path": "lang/de.json"
-    },
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
+    { "lang": "de", "name": "Deutsch", "path": "lang/de.json" },
+    { "lang": "en", "name": "English", "path": "lang/en.json" }
   ],
   "packs": [],
-  "compatibility": {
-    "minimum": "10",
-    "verified": "11"
-  }
+  "compatibility": { "minimum": "10", "verified": "11" }
 }
+
